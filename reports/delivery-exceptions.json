@@ -1,0 +1,62 @@
+[
+  {
+    "drop_id": "D-205",
+    "neighborhood": "Birchfield",
+    "window_end": "2051-02-14T09:10Z",
+    "vehicle": "BIKE",
+    "crate_count": 2,
+    "delivered_crate_count": 1,
+    "cold_breach_crate_count": 0,
+    "latest_selected_at": "2051-02-14T09:09Z",
+    "usable_ping_count": 2,
+    "status": "NOT_DELIVERED"
+  },
+  {
+    "drop_id": "D-104",
+    "neighborhood": "Ashbury",
+    "window_end": "2051-02-14T09:20Z",
+    "vehicle": "VAN",
+    "crate_count": 3,
+    "delivered_crate_count": 3,
+    "cold_breach_crate_count": 1,
+    "latest_selected_at": "2051-02-14T09:21Z",
+    "usable_ping_count": 4,
+    "status": "COLD_CHAIN_BREACH"
+  },
+  {
+    "drop_id": "D-427",
+    "neighborhood": "Cedar Point",
+    "window_end": "2051-02-14T09:15Z",
+    "vehicle": "BIKE",
+    "crate_count": 4,
+    "delivered_crate_count": 4,
+    "cold_breach_crate_count": 0,
+    "latest_selected_at": "2051-02-14T09:16Z",
+    "usable_ping_count": 4,
+    "status": "LATE_WINDOW"
+  },
+  {
+    "drop_id": "D-509",
+    "neighborhood": "Birchfield",
+    "window_end": "2051-02-14T09:30Z",
+    "vehicle": "VAN",
+    "crate_count": 1,
+    "delivered_crate_count": 1,
+    "cold_breach_crate_count": 0,
+    "latest_selected_at": "2051-02-14T09:31Z",
+    "usable_ping_count": 3,
+    "status": "LATE_WINDOW"
+  },
+  {
+    "drop_id": "D-318",
+    "neighborhood": "Ashbury",
+    "window_end": "2051-02-14T09:25Z",
+    "vehicle": "VAN",
+    "crate_count": 2,
+    "delivered_crate_count": 2,
+    "cold_breach_crate_count": 0,
+    "latest_selected_at": "2051-02-14T09:24Z",
+    "usable_ping_count": 2,
+    "status": "CLEARED"
+  }
+]
