@@ -1,0 +1,21 @@
+{"drop_id":"D-104","crate":1,"pinged_at":"2051-02-14T09:05Z","location":"HUB","temperature_c":4,"ping_id":1}
+{"drop_id":"D-104","crate":1,"pinged_at":"2051-02-14T09:18Z","location":"DELIVERED","temperature_c":5,"ping_id":2}
+{"drop_id":"D-104","crate":2,"pinged_at":"2051-02-14T09:19Z","location":"DELIVERED","temperature_c":9,"ping_id":1}
+{"drop_id":"D-104","crate":3,"pinged_at":"2051-02-14T09:21Z","location":"DELIVERED","temperature_c":6,"ping_id":1}
+{"drop_id":"D-205","crate":1,"pinged_at":"2051-02-14T09:08Z","location":"DELIVERED","temperature_c":4,"ping_id":4}
+{"drop_id":"D-205","crate":2,"pinged_at":"2051-02-14T09:09Z","location":"EN_ROUTE","temperature_c":5,"ping_id":5}
+{"drop_id":"D-318","crate":1,"pinged_at":"2051-02-14T09:24Z","location":"DELIVERED","temperature_c":3,"ping_id":1}
+{"drop_id":"D-318","crate":2,"pinged_at":"2051-02-14T09:24Z","location":"DELIVERED","temperature_c":4,"ping_id":1}
+{"drop_id":"D-427","crate":1,"pinged_at":"2051-02-14T09:14Z","location":"DELIVERED","temperature_c":4,"ping_id":1}
+{"drop_id":"D-427","crate":2,"pinged_at":"2051-02-14T09:14Z","location":"DELIVERED","temperature_c":4,"ping_id":1}
+{"drop_id":"D-427","crate":3,"pinged_at":"2051-02-14T09:15Z","location":"DELIVERED","temperature_c":4,"ping_id":1}
+{"drop_id":"D-427","crate":4,"pinged_at":"2051-02-14T09:16Z","location":"DELIVERED","temperature_c":4,"ping_id":1}
+{"drop_id":"D-509","crate":1,"pinged_at":"2051-02-14T09:29Z","location":"DELIVERED","temperature_c":8,"ping_id":1}
+{"drop_id":"D-509","crate":1,"pinged_at":"2051-02-14T09:31Z","location":"DELIVERED","temperature_c":7,"ping_id":2}
+{"drop_id":"D-509","crate":1,"pinged_at":"2051-02-14T09:31Z","location":"DELIVERED","temperature_c":7,"ping_id":3}
+{"drop_id":"D-104","crate":4,"pinged_at":"2051-02-14T09:00Z","location":"DELIVERED","temperature_c":3,"ping_id":1}
+{"drop_id":"D-318","crate":1,"pinged_at":"2051-02-14T10:00Z","location":"DELIVERED","temperature_c":2,"ping_id":9}
+{"drop_id":"D-205","crate":1,"pinged_at":"2051-02-14T09:07Z","location":"DELIVERED","temperature_c":true,"ping_id":3}
+{"drop_id":"D-427","crate":1,"pinged_at":"2051-02-14T09:12Z","location":"WAREHOUSE","temperature_c":2,"ping_id":7}
+{"drop_id":"D-104","crate":2,"pinged_at":"2051-02-14T09:17Z","location":"DELIVERED","temperature_c":5,"ping_id":0}
+not json

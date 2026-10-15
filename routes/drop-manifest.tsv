@@ -1,0 +1,6 @@
+drop_id	neighborhood	window_end	vehicle	crate_count
+D-104	Ashbury	2051-02-14T09:20Z	VAN	3
+D-205	Birchfield	2051-02-14T09:10Z	BIKE	2
+D-318	Ashbury	2051-02-14T09:25Z	VAN	2
+D-427	Cedar Point	2051-02-14T09:15Z	BIKE	4
+D-509	Birchfield	2051-02-14T09:30Z	VAN	1
